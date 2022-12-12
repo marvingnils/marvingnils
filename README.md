@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvingnils
-- 👀 I’m interested in building software
-- 🌱 I’m currently learning modern Java
-- 💞️ I’m looking to collaborate on building software
+- 👀 I’m interested in building software and platforms
+- 🌱 I’m currently building software on platforms
+- 💞️ I’m looking to collaborate on building software on some platforms
 - 📫 Reach me via Signal or email
 
 <!---
